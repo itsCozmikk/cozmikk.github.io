@@ -11,5 +11,5 @@ SHA256: <sha256 of deb>
 Section: <section on your repo>
 Description: This is the first build of my theme "Askrid". It is made for iOS 10
 Author: Cozmikk <itscozmikk@gmail>
-Depiction: http://decimation.github.io/Depic/<depicfoldername>/index.html
+Depiction: http://cozmikk.github.io/Depic/Askrid iOS 10/index.html
 Name: Askrid iOS 10
