@@ -1,0 +1,9 @@
+Origin: Cozmikk's Repo
+Label: Cozmikk's Repo
+Suite: stable
+Version: 1.0
+Codename: Cozmikk
+Architectures: iphoneos-arm
+Components: main
+Description: Cozmikk's Repo
+MD5Sum:
