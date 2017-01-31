@@ -1,2 +1,1 @@
-# cozmikk.github.io
-Hello
+# Welcome to my Cozmikk's Github Repo!
